@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-title: Lord of Heros Data Room
+  title: Lord of Heros Data Room
+  show_downloads: false
